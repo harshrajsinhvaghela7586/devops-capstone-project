@@ -45,14 +45,3 @@ You can repeat this for all 7 stories (setup dev environment, read, update, dele
 If you want, I can **write all 7 user stories fully filled out** for your Capstone project ready to copy-paste. Do you want me to do that?
 
 ---
-
-✅ Key points:  
-
-- Keep the **role** specific (developer, admin, user, etc.)  
-- **Function** is what the system should do.  
-- **Benefit** is why this is valuable.  
-- **Acceptance Criteria** follow the Gherkin format for testable conditions.  
-
-You can repeat this for all 7 stories (setup dev environment, read, update, delete, list accounts, containerize, deploy).  
-
-If you want, I can **write all 7 user stories fully filled out** for your Capstone project ready to copy-paste. Do you want me to do that?
